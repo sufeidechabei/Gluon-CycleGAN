@@ -1,4 +1,4 @@
-## A Mini Implementation Of Cyclagan
+## A Mini Implementation Of CycleGAN
 
 
 **Prerequisites**
